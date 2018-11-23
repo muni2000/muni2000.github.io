@@ -1,0 +1,30 @@
+
+body{
+background-color: Bisque;}
+h1{
+text-align: center;
+color: Coral;
+margin-left: 80px;
+font-family: TimesNewRoman
+}
+p{
+text-align: center;
+color: Salmon;
+margin-left: 65px;
+font-family: Arial;
+}
+
+h2{
+color: Red;
+margin-left: 40px;
+font-family: Arial;}
+li{
+color: Blue;
+margin-left: 30px;
+font-family: Arial;
+}
+h3{
+color: MediumPurple;
+margin-left: 55px;
+font-family: Arisl;
+}

@@ -1,0 +1,27 @@
+
+body{
+background-color: lavender;}
+h1{
+text-align: center;
+color: purple;
+margin-left: 80px;
+font-family: TimesNewRoman}
+h4{
+  color: PaleVioletRed;
+  margin-left: 55px;
+  font-family: Arial;}
+h2{
+color: Salmon;
+margin-left: 65px;
+font-family: Arial;}
+p{
+color:Grey;
+margin-left: 50px;
+font-family: ArialNarrow;}
+h3{
+color: DarkTurquoise;
+margin-left: 60px;
+font-family: Arial;}
+p{color:Black;
+ font-family:ArialNarrow;
+
