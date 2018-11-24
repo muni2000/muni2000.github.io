@@ -7,8 +7,9 @@ color: purple;
 margin-left: 80px;
 font-family: TimesNewRoman}
 h4{
+  text-align: center;
   color: PaleVioletRed;
-  margin-left: 55px;
+  margin-left: 65px;
   font-family: Arial;}
 h2{
 color: Salmon;
@@ -22,6 +23,6 @@ h3{
 color: DarkTurquoise;
 margin-left: 60px;
 font-family: Arial;}
-h4{
+h5{
 text-align: center;
 }
